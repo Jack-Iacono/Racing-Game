@@ -12,6 +12,7 @@ This game is a traditional top-down racing game which I created in order to get 
 
 ## Mechanics
 - Each race has 3 laps by default, but more laps can be added from the settings menu
+- 2 player support (This is groundbreaking)
 - Many more settings which can be changed at the main menu
 - 4 Unique skins
 - 2 WHOLE RACES (I know, contain your excitement)
